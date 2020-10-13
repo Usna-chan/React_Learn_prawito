@@ -1,0 +1,14 @@
+.btn{
+	background-color: lightblue;
+	padding: 10px 25px;
+	border: none;
+	border-radius: 5%;
+	margin: 20px;
+	color: white;
+}
+p{
+	font-size: 20px;
+	margin: 10px;
+	font-family: sans-serif;
+	
+}
